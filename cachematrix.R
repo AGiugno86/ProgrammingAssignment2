@@ -8,7 +8,7 @@
 
 
 ## This function initialises a cacheable matrix, together with the quantities
-## that we want to compute out of it, in this case just the inverse. 
+## that we want to compute out of it, just the inverse in this case. 
 ## In particular, it returns a list of set/get couples. 
 ## The setters construct data, such as the matrix itself or its inverse,
 ## while the getters allow their retrieval.
